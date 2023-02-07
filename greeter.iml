@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/is.hi.lks17.hbv202g.ass3.backend" isTestSource="false" packagePrefix="src.is.hi.lks17.hbv202g.ass3.backend" />
+      <sourceFolder url="file://$MODULE_DIR$/src/is.hi.lks17.hbv202g.ass3.frontend" isTestSource="false" packagePrefix="is.hi.lks17.hbv202g.ass3.frontend" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
